@@ -33,6 +33,20 @@
 - Mobile View
   ![Screenshot 2025-03-22 150401](https://github.com/user-attachments/assets/5aa888fc-d70e-44b5-b7ef-3e80ecf896bc)
 
+## Backend API Postman Response Screenshots
+   - Add Employee POST Request
+   ![Screenshot 2025-03-22 150519](https://github.com/user-attachments/assets/d83ae26f-9573-41d1-8142-b37f04ecb4f9)
+   - GET Employees
+     ![Screenshot 2025-03-22 150537](https://github.com/user-attachments/assets/b27d4c5f-4a91-4a45-956e-e7fbade652cd)
+   - GET Employee with id
+     ![Screenshot 2025-03-22 150557](https://github.com/user-attachments/assets/3cff8123-8732-469d-befa-75397ec57722)
+   - Update Employee with id
+     ![Screenshot 2025-03-22 150653](https://github.com/user-attachments/assets/b04f2bc8-0ce6-4625-8a3a-f598b195db3d)
+   - Delete Employee with id
+     ![Screenshot 2025-03-22 150709](https://github.com/user-attachments/assets/f4a78b18-7aa0-4ab2-8a53-8aefa793cf8b)
+
+
+
 
 
    
